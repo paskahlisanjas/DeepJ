@@ -2,3 +2,6 @@
 out
 data
 .DS_Store
+python3-midi
+midi.egg-info
+env
