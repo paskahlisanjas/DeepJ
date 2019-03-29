@@ -1,5 +1,6 @@
 keras==2.0.0
 tensorflow-gpu==1.6.0
+tensorflow==1.6.0
 joblib
 tqdm
 h5py
